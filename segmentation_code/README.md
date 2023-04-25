@@ -1,9 +1,8 @@
 # How to train the segmentation network?
 
 ```bash
-cd segmentation_code
-INDIR = /tmp/input/cityscapes_processed/
-OUTDIR = /tmp/output/
+INDIR = /path/to/cityscapes/
+OUTDIR = /path/to/output/folder/
 ```
 
 ## Baseline experiment
