@@ -7,7 +7,7 @@ We benchmark methods for improving deep learning applications fairly, and note t
 ###  Figure : validation mIoU (for Cityscapes) and emmissions are not correlated.
 ![image info](./emmissions.png)
 
-Moreover, we demonstrate that training for half the number of epochs, or even training with a significantly smaller version of the base network (one out of the two branches of BiSeNet) achieves comparable accuracy at lower energy costs (as much as even half in the former case).
+Moreover, we demonstrate that training for half the number of epochs, or even training with a significantly smaller version of the base network (one out of the two branches of BiSeNet) achieves comparable accuracy at lower energy costs (as much as even half in the former case), making for __Greener AI__.
 
 ## Instructions
 
