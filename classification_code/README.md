@@ -1,5 +1,7 @@
-cd classification_code
+# Download data
+``` bash
 sh download_cifar.sh
+```
 
 # LookAhead experiment 
 
